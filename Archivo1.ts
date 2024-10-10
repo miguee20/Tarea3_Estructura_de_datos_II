@@ -1,4 +1,6 @@
 // Nodo BST
+// Miguel Salguero
+// David Ixquiac
 export class NodeTree {
     private data: number;
     private father: NodeTree;
